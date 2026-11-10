@@ -1,0 +1,21 @@
+<resources>
+    <color name="canvas">#101613</color>
+    <color name="surface">#1A241F</color>
+    <color name="border">#3E5247</color>
+    <color name="ink">#F0F7F1</color>
+    <color name="subtle">#B1C7B9</color>
+    <color name="accent">#C7F485</color>
+    <color name="on_accent">#192710</color>
+    <color name="ripple">#45314A19</color>
+
+    <style name="Theme.LoudBooster" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/canvas</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:textColorPrimary">@color/ink</item>
+        <item name="android:textColorSecondary">@color/subtle</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

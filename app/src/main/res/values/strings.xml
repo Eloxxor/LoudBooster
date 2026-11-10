@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoudBooster</string>
+    <string name="subtitle">Zusätzliche Verstärkung für Bluetooth-Audio.</string>
+    <string name="output_title">Medienausgabe</string>
+    <string name="no_bluetooth">Wähle deine Pixel Buds als Medienausgabe.</string>
+    <string name="bluetooth_output">Bluetooth · %1$s</string>
+    <string name="gain_title">Verstärkung</string>
+    <string name="gain_zero">%1$s dB</string>
+    <string name="gain_positive">+%1$s dB</string>
+    <string name="gain_min">0 dB</string>
+    <string name="gain_max">+6 dB</string>
+    <string name="status_off">Booster aus</string>
+    <string name="status_active">Effekt eingeschaltet</string>
+    <string name="status_starting">Effekt wird eingeschaltet …</string>
+    <string name="status_route_changed">Booster aus. Die Audioausgabe hat sich geändert.</string>
+    <string name="status_unavailable">Android konnte den Effekt nicht einschalten.</string>
+    <string name="turn_on">Booster einschalten</string>
+    <string name="turn_off">Booster ausschalten</string>
+    <string name="notice">Fang mit einer niedrigen Lautstärke an. Die Wirkung hängt vom Handy und der Wiedergabe-App ab.</string>
+    <string name="notification_channel">Aktiver Booster</string>
+    <string name="notification_title">LoudBooster aktiv · %1$s</string>
+</resources>
